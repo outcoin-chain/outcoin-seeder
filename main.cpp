@@ -16,6 +16,7 @@ using namespace std;
 
 bool fTestNet = false;
 bool fRegTest = false;
+bool fDNS = true;
 
 class CDnsSeedOpts {
 public:
